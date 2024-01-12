@@ -15,3 +15,18 @@ This is a Kotlin Multiplatform project targeting Android, iOS.
 
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
+Android app screens
+
+![Androdi1](https://github.com/HusseinKamal/DecomposeNavigationKMP/assets/29864161/c2463c25-8a1b-46aa-b932-ee8f8464a33f)
+
+![Android2](https://github.com/HusseinKamal/DecomposeNavigationKMP/assets/29864161/2058ca5d-c8d5-464e-a574-d425476ce9e3)
+
+
+IOS app screen
+
+![Simulator Screen Shot - iPhone 12 Pro Max - 2024-01-13 at 00 55 57](https://github.com/HusseinKamal/DecomposeNavigationKMP/assets/29864161/5bd97386-182d-4008-93f3-7d6c46083874)
+
+
+![Simulator Screen Shot - iPhone 12 Pro Max - 2024-01-13 at 00 55 39](https://github.com/HusseinKamal/DecomposeNavigationKMP/assets/29864161/0c367621-b0bc-4bba-89bc-ddb81442d4e0)
